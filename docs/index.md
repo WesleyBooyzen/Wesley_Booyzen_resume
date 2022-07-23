@@ -1,3 +1,4 @@
+![65885834_2107685166199162_8664922878447190016_n](https://user-images.githubusercontent.com/101798973/180624175-050b31c5-1dc8-49be-a01e-3eebf00d22c1.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WesleyBooyzen/Wesley_Booyzen_resume/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
